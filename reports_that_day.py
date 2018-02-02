@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 from simple_salesforce import Salesforce
 import requests, sys, re, json
 import xlsxwriter
